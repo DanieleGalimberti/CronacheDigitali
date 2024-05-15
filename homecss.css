@@ -1,0 +1,23 @@
+body{
+    background-color: #DFC99B;
+}
+#title{
+    background-image: url('https://www.shutterstock.com/image-illustration/old-english-newspapers-background-260nw-294853400.jpg');
+}
+#rett {
+    max-width: 576px; 
+    background-color: rgba(0, 0, 0, 0.367); 
+    padding: 10px; 
+    border-radius: 20px; 
+}
+
+ul {
+    list-style: none;
+}
+
+.intestazione{
+    background-color: rgba(255, 255, 255, 0.482); 
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+}

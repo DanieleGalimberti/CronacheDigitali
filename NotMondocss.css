@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://e0.pxfuel.com/wallpapers/304/850/desktop-wallpaper-original-iphone-earth-iphone-globe.jpg");
+    background-size: cover;
+}
+
+.carta {
+    width: 95%;
+    height: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px;
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.482); 
+}
+
+.listaNot {
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+h2 {
+    margin-top: 10px;
+    color: black;
+}
+
+.intestazione{
+    background-color: rgba(255, 255, 255, 0.482); 
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+}
